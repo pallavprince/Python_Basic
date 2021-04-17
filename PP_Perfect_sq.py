@@ -1,4 +1,4 @@
-#this code is for find given no is perfect squere or not
+#this code is for find given no is perfect square or not
 # 
 def is_sqr(n):
     f = 0
